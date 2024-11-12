@@ -1,0 +1,10 @@
+C:\Users\Wykładowca\source\repos\KeyEvent_Timer_Game\KeyEvent_Timer_Game\bin\Debug\KeyEvent_Timer_Game.exe.config
+C:\Users\Wykładowca\source\repos\KeyEvent_Timer_Game\KeyEvent_Timer_Game\bin\Debug\KeyEvent_Timer_Game.exe
+C:\Users\Wykładowca\source\repos\KeyEvent_Timer_Game\KeyEvent_Timer_Game\bin\Debug\KeyEvent_Timer_Game.pdb
+C:\Users\Wykładowca\source\repos\KeyEvent_Timer_Game\KeyEvent_Timer_Game\obj\Debug\KeyEvent_Timer_Game.csproj.AssemblyReference.cache
+C:\Users\Wykładowca\source\repos\KeyEvent_Timer_Game\KeyEvent_Timer_Game\obj\Debug\KeyEvent_Timer_Game.Form1.resources
+C:\Users\Wykładowca\source\repos\KeyEvent_Timer_Game\KeyEvent_Timer_Game\obj\Debug\KeyEvent_Timer_Game.Properties.Resources.resources
+C:\Users\Wykładowca\source\repos\KeyEvent_Timer_Game\KeyEvent_Timer_Game\obj\Debug\KeyEvent_Timer_Game.csproj.GenerateResource.cache
+C:\Users\Wykładowca\source\repos\KeyEvent_Timer_Game\KeyEvent_Timer_Game\obj\Debug\KeyEvent_Timer_Game.csproj.CoreCompileInputs.cache
+C:\Users\Wykładowca\source\repos\KeyEvent_Timer_Game\KeyEvent_Timer_Game\obj\Debug\KeyEvent_Timer_Game.exe
+C:\Users\Wykładowca\source\repos\KeyEvent_Timer_Game\KeyEvent_Timer_Game\obj\Debug\KeyEvent_Timer_Game.pdb

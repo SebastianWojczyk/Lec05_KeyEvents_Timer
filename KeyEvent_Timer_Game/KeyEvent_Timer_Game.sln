@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyEvent_Timer_Game", "KeyEvent_Timer_Game\KeyEvent_Timer_Game.csproj", "{F7068698-B432-48D7-9972-9F480D02444B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7068698-B432-48D7-9972-9F480D02444B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7068698-B432-48D7-9972-9F480D02444B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7068698-B432-48D7-9972-9F480D02444B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7068698-B432-48D7-9972-9F480D02444B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06F87D5C-C5D0-485B-B3D4-1E4B19F61C67}
+	EndGlobalSection
+EndGlobal
